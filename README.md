@@ -35,7 +35,7 @@ An end-to-end data analytics project analyzing **$2.3M in retail sales** across 
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard](assets/dashboard_preview.png)
+![Dashboard](https://github.com/kshitijb05/sales_performance_analysis/blob/fe7df6deebe2dbb906e418a914ea4a9cbc1f3923/dashboard_preview.png)
 
 ---
 
