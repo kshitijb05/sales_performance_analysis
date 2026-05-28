@@ -41,7 +41,7 @@ An end-to-end data analytics project analyzing **$2.3M in retail sales** across 
 
 ## Dataset
 - **Source:** Kaggle — Superstore Sales Dataset
-- **Size:** 9,994 rows × 23 columns | 2014–2017 | United States
+- **Link** - https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
 
 
